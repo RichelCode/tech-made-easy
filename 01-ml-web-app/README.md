@@ -51,7 +51,7 @@ Your browser should pop open with the app. If it doesn't, the terminal prints a 
 
 This little app doesn't need any API keys. But as a good habit for future projects: never commit secrets to git. Keep them in a `.env` file (already ignored here) and load them from environment variables.
 
-## 📖 Read the full walkthrough on Medium: [link coming soon]
+## 📖 Read the full walkthrough on Medium: https://medium.com/@richelattafuah/i-built-an-ml-web-app-with-zero-web-skills-63e4f87be17a
 
 ---
 
