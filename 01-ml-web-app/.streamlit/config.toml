@@ -1,0 +1,8 @@
+# Brand theme for the app (Midnight & Sky palette).
+# Streamlit reads this automatically when it runs the app.
+[theme]
+primaryColor = "#2E6FB8"            # mid blue: sliders, buttons, highlights
+backgroundColor = "#FBF8F2"         # warm cream, never plain white
+secondaryBackgroundColor = "#9FC7EC" # sky blue: panels and progress tracks
+textColor = "#0C2A4A"               # deep navy for readable, on-brand text
+font = "sans serif"
