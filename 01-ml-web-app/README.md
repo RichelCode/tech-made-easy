@@ -42,10 +42,10 @@ Your browser should pop open with the app. If it doesn't, the terminal prints a 
 
 ## The files
 
-- `app.py` — the web app itself.
-- `train.py` — a standalone script that trains the model and prints its accuracy, if you want to see the learning happen in the terminal.
-- `explore.py` — a quick peek at the data before any modeling.
-- `requirements.txt` — the three packages, nothing extra.
+- `app.py` is the web app itself.
+- `train.py` is a standalone script that trains the model and prints its accuracy, if you want to see the learning happen in the terminal.
+- `explore.py` is a quick peek at the data before any modeling.
+- `requirements.txt` holds the three packages, nothing extra.
 
 ## A note on secrets
 
