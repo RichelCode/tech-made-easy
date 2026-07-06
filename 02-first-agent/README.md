@@ -1,4 +1,4 @@
-# 🤖 Your First AI Agent (in Pure Python)
+#  Your First AI Agent (in Pure Python)
 
 Hi, I'm Richel. This is a tiny AI agent you can run on your own laptop with nothing but plain Python. No API key, no signup, no cost.
 
